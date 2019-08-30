@@ -1,0 +1,8 @@
+Team Members: Brian Lee, Vlad Schepkov, Hekwang Lhi, Khalid Ettalii
+
+Our proposal: We have a Spotify dataset pulled from Spotify's API.
+It has 18.8k rows and 18 columns. This dataset contains song information including popularity,
+loudness, tempo, acousticness, genre, etc. 
+We will work with the data to see if we can find any variable that correlates with song popularity.
+Ideally, we will build a regression formula that will allow us to predict song popularity, based on
+these song variables. 
